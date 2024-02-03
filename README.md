@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **pluginpalate@gmail.com**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kamanetwork?theme=dark&font=Forum&ext=heatmap&site=cn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,6 +45,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
